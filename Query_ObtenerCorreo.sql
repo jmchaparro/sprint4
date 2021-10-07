@@ -1,0 +1,1 @@
+SELECT * FROM usuarios where correo like "%gmail.com%";
