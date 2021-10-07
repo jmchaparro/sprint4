@@ -1,1 +1,1 @@
-SELECT nombre,apellido,telefono FROM usuarios ORDER BY telefono DESC
+SELECT nombre,apellido,telefono FROM Usuarios ORDER BY telefono DESC
